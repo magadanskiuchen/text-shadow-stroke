@@ -10,3 +10,5 @@ $(element).stroke({ size: 2, color: '#000' });
 
  * `size` -- the radius of the stroke that is to be applied o the text
  * `color` -- the color of the stroke
+
+### [Demo](http://magadanskiuchen.github.io/text-shadow-stroke/)
